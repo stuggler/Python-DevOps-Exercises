@@ -1,0 +1,280 @@
+2026-05-11 16:33:25.678 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 16:33:25.683 | ERROR    | __main__:main:26 - Failed to connect to Docker. Is the service running?
+2026-05-11 16:43:02.895 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 16:43:02.901 | ERROR    | __main__:main:24 - Failed to connect to Docker. Is the service running?
+2026-05-11 16:43:10.201 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 16:43:10.205 | ERROR    | __main__:main:24 - Failed to connect to Docker. Is the service running?
+2026-05-11 16:43:32.328 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 16:43:32.333 | ERROR    | __main__:main:24 - Failed to connect to Docker. Is the service running?
+2026-05-11 16:44:00.775 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 16:44:00.781 | ERROR    | __main__:main:25 - Failed to connect to Docker. Is the service running?
+2026-05-11 16:55:02.362 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 16:55:02.366 | ERROR    | __main__:main:27 - Failed to connect to Docker. Is the service running?
+2026-05-11 16:55:13.996 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 16:55:14.000 | ERROR    | __main__:main:27 - Failed to connect to Docker. Is the service running?
+2026-05-11 17:01:09.406 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:01:09.410 | ERROR    | __main__:main:27 - Failed to connect to Docker. Is the service running?
+2026-05-11 17:01:19.111 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:01:19.116 | ERROR    | __main__:main:27 - Failed to connect to Docker. Is the service running?
+2026-05-11 17:03:30.492 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:03:30.594 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-11 17:15:37.032 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:15:37.165 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-11 17:25:52.850 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:25:52.901 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-11 17:25:53.011 | INFO     | __main__:main:29 - Detected [<Container: 901a94201663>] running containers.
+2026-05-11 17:26:26.527 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:26:26.650 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-11 17:26:26.713 | INFO     | __main__:main:29 - Detected 1 running containers.
+2026-05-11 17:27:13.607 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:27:13.681 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-11 17:27:13.776 | INFO     | __main__:main:29 - Detected 1 running containers.
+2026-05-11 17:39:01.324 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-11 17:39:01.431 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-11 17:39:01.563 | INFO     | __main__:main:29 - Detected 1 running containers.
+2026-05-11 17:39:01.934 | INFO     | __main__:main:31 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 13:54:31.676 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-12 13:54:31.859 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-12 13:54:32.037 | INFO     | __main__:main:29 - Detected 1 running containers.
+2026-05-12 13:54:32.210 | INFO     | __main__:main:31 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 14:41:11.748 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-12 14:41:11.822 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-12 14:41:11.872 | INFO     | __main__:main:29 - Detected 1 running containers.
+2026-05-12 14:41:12.009 | INFO     | __main__:main:31 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 16:02:11.580 | INFO     | __main__:main:16 - Starting Watchdog...
+2026-05-12 16:02:11.726 | SUCCESS  | __main__:main:22 - Docker engine is responsive.
+2026-05-12 16:02:11.900 | INFO     | __main__:main:29 - Detected 1 running containers.
+2026-05-12 16:02:12.065 | INFO     | __main__:main:31 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:17:18.668 | INFO     | __main__:main:20 - Starting Watchdog...
+2026-05-12 17:17:18.772 | SUCCESS  | __main__:main:26 - Docker engine is responsive.
+2026-05-12 17:17:18.855 | INFO     | __main__:main:33 - Detected 1 running containers.
+2026-05-12 17:17:19.070 | INFO     | __main__:main:35 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:23:16.371 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:23:16.402 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:23:16.462 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:23:16.606 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:25:27.507 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:25:27.538 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:25:27.592 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:25:27.720 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:25:28.592 | INFO     | __main__:main:41 - Docker version output: 
+2026-05-12 17:25:42.850 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:25:42.864 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:25:42.905 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:25:43.017 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:25:43.422 | INFO     | __main__:main:41 - Docker version output: CompletedProcess(args=['docker', '--version'], returncode=0, stdout='', stderr='Usage:  docker [OPTIONS] COMMAND\n\nA self-sufficient runtime for containers\n\nCommon Commands:\n  run         Create and run a new container from an image\n  exec        Execute a command in a running container\n  ps          List containers\n  build       Build an image from a Dockerfile\n  bake        Build from a file\n  pull        Download an image from a registry\n  push        Upload an image to a registry\n  images      List images\n  login       Authenticate to a registry\n  logout      Log out from a registry\n  search      Search Docker Hub for images\n  version     Show the Docker version information\n  info        Display system-wide information\n\nManagement Commands:\n  builder     Manage builds\n  buildx*     Docker Buildx\n  compose*    Docker Compose\n  container   Manage containers\n  context     Manage contexts\n  image       Manage images\n  manifest    Manage Docker image manifests and manifest lists\n  network     Manage networks\n  plugin      Manage plugins\n  system      Manage Docker\n  volume      Manage volumes\n\nSwarm Commands:\n  swarm       Manage Swarm\n\nCommands:\n  attach      Attach local standard input, output, and error streams to a running container\n  commit      Create a new image from a container\'s changes\n  cp          Copy files/folders between a container and the local filesystem\n  create      Create a new container\n  diff        Inspect changes to files or directories on a container\'s filesystem\n  events      Get real time events from the server\n  export      Export a container\'s filesystem as a tar archive\n  history     Show the history of an image\n  import      Import the contents from a tarball to create a filesystem image\n  inspect     Return low-level information on Docker objects\n  kill        Kill one or more running containers\n  load        Load an image from a tar archive or STDIN\n  logs        Fetch the logs of a container\n  pause       Pause all processes within one or more containers\n  port        List port mappings or a specific mapping for the container\n  rename      Rename a container\n  restart     Restart one or more containers\n  rm          Remove one or more containers\n  rmi         Remove one or more images\n  save        Save one or more images to a tar archive (streamed to STDOUT by default)\n  start       Start one or more stopped containers\n  stats       Display a live stream of container(s) resource usage statistics\n  stop        Stop one or more running containers\n  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE\n  top         Display the running processes of a container\n  unpause     Unpause all processes within one or more containers\n  update      Update configuration of one or more containers\n  wait        Block until one or more containers stop, then print their exit codes\n\nGlobal Options:\n      --config string      Location of client config files (default "/home/ubuntu/.docker")\n  -c, --context string     Name of the context to use to connect to the daemon (overrides DOCKER_HOST env var and default context set with "docker\n                           context use")\n  -D, --debug              Enable debug mode\n  -H, --host string        Daemon socket to connect to\n  -l, --log-level string   Set the logging level ("debug", "info", "warn", "error", "fatal") (default "info")\n      --tls                Use TLS; implied by --tlsverify\n      --tlscacert string   Trust certs signed only by this CA (default "/home/ubuntu/.docker/ca.pem")\n      --tlscert string     Path to TLS certificate file (default "/home/ubuntu/.docker/cert.pem")\n      --tlskey string      Path to TLS key file (default "/home/ubuntu/.docker/key.pem")\n      --tlsverify          Use TLS and verify the remote\n  -v, --version            Print version information and quit\n\nRun \'docker COMMAND --help\' for more information on a command.\n\nFor more help on how to use Docker, head to https://docs.docker.com/go/guides/\n')
+2026-05-12 17:26:04.841 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:26:04.853 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:26:04.889 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:26:04.990 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:26:05.442 | INFO     | __main__:main:41 - Docker version output: 
+2026-05-12 17:27:30.504 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:27:30.540 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:27:30.591 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:27:30.703 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:27:31.207 | INFO     | __main__:main:41 - Docker version output: 
+2026-05-12 17:27:31.207 | ERROR    | __main__:main:44 - Error retrieving Docker version: Usage:  docker [OPTIONS] COMMAND
+
+A self-sufficient runtime for containers
+
+Common Commands:
+  run         Create and run a new container from an image
+  exec        Execute a command in a running container
+  ps          List containers
+  build       Build an image from a Dockerfile
+  bake        Build from a file
+  pull        Download an image from a registry
+  push        Upload an image to a registry
+  images      List images
+  login       Authenticate to a registry
+  logout      Log out from a registry
+  search      Search Docker Hub for images
+  version     Show the Docker version information
+  info        Display system-wide information
+
+Management Commands:
+  builder     Manage builds
+  buildx*     Docker Buildx
+  compose*    Docker Compose
+  container   Manage containers
+  context     Manage contexts
+  image       Manage images
+  manifest    Manage Docker image manifests and manifest lists
+  network     Manage networks
+  plugin      Manage plugins
+  system      Manage Docker
+  volume      Manage volumes
+
+Swarm Commands:
+  swarm       Manage Swarm
+
+Commands:
+  attach      Attach local standard input, output, and error streams to a running container
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  events      Get real time events from the server
+  export      Export a container's filesystem as a tar archive
+  history     Show the history of an image
+  import      Import the contents from a tarball to create a filesystem image
+  inspect     Return low-level information on Docker objects
+  kill        Kill one or more running containers
+  load        Load an image from a tar archive or STDIN
+  logs        Fetch the logs of a container
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  rmi         Remove one or more images
+  save        Save one or more images to a tar archive (streamed to STDOUT by default)
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  wait        Block until one or more containers stop, then print their exit codes
+
+Global Options:
+      --config string      Location of client config files (default "/home/ubuntu/.docker")
+  -c, --context string     Name of the context to use to connect to the daemon (overrides DOCKER_HOST env var and default context set with "docker
+                           context use")
+  -D, --debug              Enable debug mode
+  -H, --host string        Daemon socket to connect to
+  -l, --log-level string   Set the logging level ("debug", "info", "warn", "error", "fatal") (default "info")
+      --tls                Use TLS; implied by --tlsverify
+      --tlscacert string   Trust certs signed only by this CA (default "/home/ubuntu/.docker/ca.pem")
+      --tlscert string     Path to TLS certificate file (default "/home/ubuntu/.docker/cert.pem")
+      --tlskey string      Path to TLS key file (default "/home/ubuntu/.docker/key.pem")
+      --tlsverify          Use TLS and verify the remote
+  -v, --version            Print version information and quit
+
+Run 'docker COMMAND --help' for more information on a command.
+
+For more help on how to use Docker, head to https://docs.docker.com/go/guides/
+
+2026-05-12 17:29:28.114 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:29:28.145 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:29:28.191 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:29:28.335 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:29:28.840 | INFO     | __main__:main:43 - Docker version output: 
+2026-05-12 17:29:28.840 | ERROR    | __main__:main:46 - Error retrieving Docker version: Usage:  docker [OPTIONS] COMMAND
+
+A self-sufficient runtime for containers
+
+Common Commands:
+  run         Create and run a new container from an image
+  exec        Execute a command in a running container
+  ps          List containers
+  build       Build an image from a Dockerfile
+  bake        Build from a file
+  pull        Download an image from a registry
+  push        Upload an image to a registry
+  images      List images
+  login       Authenticate to a registry
+  logout      Log out from a registry
+  search      Search Docker Hub for images
+  version     Show the Docker version information
+  info        Display system-wide information
+
+Management Commands:
+  builder     Manage builds
+  buildx*     Docker Buildx
+  compose*    Docker Compose
+  container   Manage containers
+  context     Manage contexts
+  image       Manage images
+  manifest    Manage Docker image manifests and manifest lists
+  network     Manage networks
+  plugin      Manage plugins
+  system      Manage Docker
+  volume      Manage volumes
+
+Swarm Commands:
+  swarm       Manage Swarm
+
+Commands:
+  attach      Attach local standard input, output, and error streams to a running container
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  events      Get real time events from the server
+  export      Export a container's filesystem as a tar archive
+  history     Show the history of an image
+  import      Import the contents from a tarball to create a filesystem image
+  inspect     Return low-level information on Docker objects
+  kill        Kill one or more running containers
+  load        Load an image from a tar archive or STDIN
+  logs        Fetch the logs of a container
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  rmi         Remove one or more images
+  save        Save one or more images to a tar archive (streamed to STDOUT by default)
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  wait        Block until one or more containers stop, then print their exit codes
+
+Global Options:
+      --config string      Location of client config files (default "/home/ubuntu/.docker")
+  -c, --context string     Name of the context to use to connect to the daemon (overrides DOCKER_HOST env var and default context set with "docker
+                           context use")
+  -D, --debug              Enable debug mode
+  -H, --host string        Daemon socket to connect to
+  -l, --log-level string   Set the logging level ("debug", "info", "warn", "error", "fatal") (default "info")
+      --tls                Use TLS; implied by --tlsverify
+      --tlscacert string   Trust certs signed only by this CA (default "/home/ubuntu/.docker/ca.pem")
+      --tlscert string     Path to TLS certificate file (default "/home/ubuntu/.docker/cert.pem")
+      --tlskey string      Path to TLS key file (default "/home/ubuntu/.docker/key.pem")
+      --tlsverify          Use TLS and verify the remote
+  -v, --version            Print version information and quit
+
+Run 'docker COMMAND --help' for more information on a command.
+
+For more help on how to use Docker, head to https://docs.docker.com/go/guides/
+
+2026-05-12 17:29:45.981 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:29:45.995 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:29:46.027 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:29:46.111 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:29:46.587 | INFO     | __main__:main:43 - Docker version output: 
+2026-05-12 17:34:03.701 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:34:03.718 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:34:03.744 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:34:03.816 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:34:04.237 | INFO     | __main__:main:43 - Docker version output: 
+2026-05-12 17:34:32.263 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:34:32.279 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:34:32.304 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:34:32.372 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:34:32.392 | INFO     | __main__:main:43 - Docker version output: Docker version 29.4.2, build 055a478
+
+2026-05-12 17:34:39.095 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:34:39.106 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:34:39.133 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:34:39.224 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:34:39.245 | INFO     | __main__:main:43 - Docker version output: Docker version 29.4.2, build 055a478
+
+2026-05-12 17:34:53.697 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:34:53.714 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:34:53.751 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:34:53.854 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:34:53.876 | INFO     | __main__:main:43 - Docker version output: Docker version 29.4.2, build 055a478
+
+2026-05-12 17:36:09.993 | INFO     | __main__:main:18 - Starting Watchdog...
+2026-05-12 17:36:10.006 | SUCCESS  | __main__:main:24 - Docker engine is responsive.
+2026-05-12 17:36:10.037 | INFO     | __main__:main:31 - Detected 1 running containers.
+2026-05-12 17:36:10.144 | INFO     | __main__:main:33 - Target identified: wonderful_wescoff (Image: ['nginx:latest'])
+2026-05-12 17:36:10.166 | INFO     | __main__:main:43 - Docker version output: Docker version 29.4.2, build 055a478
+
